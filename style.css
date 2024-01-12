@@ -1,0 +1,27 @@
+
+H1{
+    border: 1px solid black;
+    color: red;
+    background-color: black;
+}
+h1:hover{
+  color: white;
+}
+h1:active{
+  box-shadow: 0 0 08px;
+}
+div{
+  border: 1px solid red;  
+width: 300px;
+text-align: center;
+display: inline-block;
+background-color: azure;
+}
+body{
+    background-color: gray;
+}
+mark:hover{
+  border-radius: 5px;
+  color: white;
+  background-color: brown;
+}
